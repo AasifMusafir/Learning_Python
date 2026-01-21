@@ -21,7 +21,7 @@ This repository documents my **daily progress** as I learn and practice Python â
 - Variables & Data Types  
 - Input / Output  
 - Operators  
-- Conditional Statements  
+- Conditional Statement 
 - Loops  
 - Functions  
 
