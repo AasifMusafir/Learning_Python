@@ -9,7 +9,7 @@ This repository documents my **daily progress** as I learn and practice Python â
 
 - Practice Python **daily**
 - Build a **strong foundation** in Python
-- Learn **advanced concepts** with hands-on examples
+- Learn **advanced concepts** with hands-on example
 - Maintain a **clean and structured learning log**
 - Create a reference for **future projects & interviews**
 
