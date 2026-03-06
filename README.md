@@ -1,4 +1,4 @@
-# 🐍 Python Learning Journey — From Basics to Advanced topic
+# 🐍 Python Learning Journey — From Basics to Advanced topics
 
 Welcome to my **Python Learning & Practice Repository** 🚀  
 This repository documents my **daily progress** as I learn and practice Python — starting from fundamentals and gradually moving toward advanced concept.
